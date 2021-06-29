@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This challenge was provided by DapperLabs given the constraint of 4 hours. 
+
 ## Available Scripts
 
 In the project directory, you can run:
